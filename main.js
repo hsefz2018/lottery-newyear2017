@@ -14,13 +14,14 @@
   };
 
   var students = [
-    new Student(1000, 1, 1, 'abc', '110000101.png')
-    new Student(1000, 2, 2, 'abc', '110000202.png')
-    new Student(1001, 1, 1, 'abc', '110010101.png')
-    new Student(1001, 3, 2, 'abc', '110010302.png')
-    new Student(1002, 1, 1, 'abc', '110020101.png')
-    new Student(1002, 2, 2, 'abc', '110020202.png')
-    new Student(1005, 3, 7, 'abc', '110050307.png')
+    new Student(1000, 1, 1, 'abc', '110000101.png'),
+    new Student(1000, 1, 2, 'def', '110000102.png'),
+    new Student(1000, 2, 1, 'ghi', '110000201.png'),
+    new Student(1000, 2, 2, 'jkl', '110000101.png'),
+    new Student(1001, 1, 1, 'mno', '110010101.png'),
+    new Student(1001, 1, 2, 'pqr', '110010102.png'),
+    new Student(1001, 2, 1, 'stu', '110010201.png'),
+    new Student(1001, 2, 2, 'vwx', '110010101.png'),
   ];
   for (var i in students) {
     students[i].show();
