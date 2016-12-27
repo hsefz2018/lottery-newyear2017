@@ -8,3 +8,5 @@ Safari / Firefox 未测试
 
 P.S：
 Powerpoint内嵌网页可见Live Web插件
+
+(Demo)[hsefz2018.github.io/lottery-newyear2017]
